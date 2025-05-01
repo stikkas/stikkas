@@ -1,5 +1,9 @@
 - 👋 Hi there
-  I'm Serge, a computer programmer. I've been working in tech since 2007. I worked as a unix administrator and then a full-stack engineer.
+
+  I'm Serge, a computer programmer. I've been working in tech since 2007.
+
+  I worked as a unix administrator and then a full-stack engineer.
+
   Now I'm working as a back-end engineer on projects with microservice arch.
 - 👀 I’m interested in literature, movies, programming, music etc.
 - 🌱 I’m currently learning Android and English.
